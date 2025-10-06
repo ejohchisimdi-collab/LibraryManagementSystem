@@ -2,5 +2,5 @@ Library Management system.
 Beginner console line app
 Sorts and organises books along with their authors, isbn and availability status.
 Made using intellij, jdbc and sql, and java 24.
-Run by opening it in a java ide.
+Run by opening it in a java ide. You'll also need to use the mySQL command line client to run the code on the SQL document.
 
